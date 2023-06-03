@@ -1,3 +1,5 @@
+# Warning Depreciated (high chance it wont work)
+
 # weather-reporting-bme280-mqtt
 simple script for raspberry pi pico w to report data from bme280 using umqtt
 
